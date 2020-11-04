@@ -1,0 +1,39 @@
+[33mcommit c30e060fb591a37c94f025dedf34ff49da5a9c72[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 1592874 140445c
+Author: asinnott <44171811+asinnott@users.noreply.github.com>
+Date:   Wed Nov 4 14:20:52 2020 +0000
+
+    Merge pull request #1 from asinnott/test_branch
+    
+    Edited a file on test branch
+
+[33mcommit 140445c242790684b114afdcad7b8207a1769c65[m
+Merge: ddb5033 1592874
+Author: asinnott <44171811+asinnott@users.noreply.github.com>
+Date:   Wed Nov 4 14:18:31 2020 +0000
+
+    Merge branch 'main' into test_branch
+
+[33mcommit ddb5033a97987c743a726be32f2097f16977edd2[m[33m ([m[1;31morigin/test_branch[m[33m, [m[1;32mtest_branch[m[33m)[m
+Author: asinnott <andrewsinnott@gmail.com>
+Date:   Wed Nov 4 14:12:57 2020 +0000
+
+    practicing working with a file that is in a repo and committing it aagain
+
+[33mcommit b4c4cb67c91a6ce627b02ead896872bcf9bf92d9[m
+Author: asinnott <andrewsinnott@gmail.com>
+Date:   Wed Nov 4 14:10:40 2020 +0000
+
+    still pracitcing still
+
+[33mcommit 15928746dc1fb295830ff979cd2d290c9795fdf4[m
+Author: asinnott <andrewsinnott@gmail.com>
+Date:   Wed Nov 4 13:48:48 2020 +0000
+
+    commit test after working on test branch
+
+[33mcommit 97b8473448ab0201d7a3f58a6dad8ce2196c536e[m
+Author: asinnott <andrewsinnott@gmail.com>
+Date:   Wed Nov 4 13:35:14 2020 +0000
+
+    this is my first commit, a test file for pracitising working with git
